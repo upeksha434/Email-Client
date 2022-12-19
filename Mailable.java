@@ -13,8 +13,8 @@ import java.util.Properties;
 
 
 abstract class Mailable {
-    private static final String userName = "upeksha434@gmail.com";
-    private static final String password = "5E0F92E55836980B1E3AD0CA5085D216A4C5";
+    private static final String userName = "*********************";
+    private static final String password = "******************************";
 
     private static Properties getProps(){
         Properties prop = new Properties();
